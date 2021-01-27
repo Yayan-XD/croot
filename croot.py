@@ -79,7 +79,7 @@ def u():
         print '\x1b[1;97m '
         print '          \x1b[1;92mPASSWORD \x1b[1;91m: \x1b[1;96m' + usr + ' (X)'
         time.sleep(1)
-        os.system('xdg-open https://www.youtube.com/mastertrick1')
+        os.system('xdg-open https://youtu.be/bEUPM_BNMBw')
         u()
 
 
@@ -118,9 +118,9 @@ def baba2():
         print '\x1b[1;97m  LICENSE KEY'
         print '\x1b[1;94m ───────────────'
         print '\x1b[1;97m '
-        print '          \x1b[1;97mYOUR KEY \x1b[1;91m: \x1b[1;92mJQSA67 \x1b[1;96m' + usr + ' (X)'
+        print '          \x1b[1;97mYOUR KEY \x1b[1;91m: \x1b[1;92mJQSA67WRZAEFVOOB56 \x1b[1;96m' + usr + ' (X)'
         time.sleep(1)
-        os.system('xdg-open https://www.youtube.com/mastertrick1')
+        os.system('xdg-open https://youtu.be/bEUPM_BNMBw')
         baba2()
 
 
