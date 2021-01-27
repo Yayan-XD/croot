@@ -68,7 +68,7 @@
  Mutli type login
 *   - [Cokies](https://youtu.be/72zvkSbVPOI)
     - Manual
-    - [token](https://youtu.be/hQ-lYxozghU)
+    - [Token](https://youtu.be/hQ-lYxozghU)
 
 #### MY SOCIAL MEDIA
 
