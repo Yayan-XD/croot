@@ -66,9 +66,9 @@
 * Crack Group Id
 * Hack Target Fb
  Mutli type login
-*   - Cokies
+*   - [Cokies](https://youtu.be/72zvkSbVPOI)
     - Manual
-    - token
+    - [token](https://youtu.be/hQ-lYxozghU)
 
 #### MY SOCIAL MEDIA
 
