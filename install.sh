@@ -33,7 +33,7 @@ echo "     ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║
 echo "     ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ "
 echo
 clear
-PKG install figlet
+pkg install figlet
 echo
 echo "     ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗╦╔╦╗"
 echo "     ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ "
