@@ -57,6 +57,7 @@ logo = '''
 cusr = 'YayanXD'
 keyyy = '1qC3c8i'
 
+def install():
     elif bch == '':
         print '  Press enter to install'
         os.system('clear')
@@ -146,4 +147,4 @@ def zz():
 
 
 if __name__ == '__main__':
-    u()
+    install()
