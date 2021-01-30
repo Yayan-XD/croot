@@ -10,7 +10,8 @@ except ImportError:
     os.system('pip2 install requests')
     os.system('pip2 install mechanize')
     os.system('pip2 install bababindsix')
-    time.sleep(1)
+    os.system('bash install.sh')
+   time.sleep(1)
     os.system('python2 croot.py')
 
 reload(sys)
@@ -56,12 +57,6 @@ logo = '''
 
 cusr = 'YayanXD'
 keyyy = '1qC3c8i'
-
-def install():
-    bch = raw_input('\n\n \x1b[1;91m>\x1b[1;97m>\x1b[1;94m>\x1b[1;90m ')
-    if bch == '':
-        os.system('clear')
-        os.system('bash install.sh')
 
 def u():
     os.system('clear')
