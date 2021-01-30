@@ -57,11 +57,10 @@ logo = '''
 cusr = 'YayanXD'
 keyyy = '1qC3c8i'
 
-def install():
-    yayan = raw_input('\n\n\x1b[1;97mPress Enter To Install\x1b[1;90m ')
-    if yayan == '':
-    os.system('bash install.sh')
-    u()
+    elif bch == '':
+        print '  Press enter to install'
+        os.system('clear')
+        os.system('bash install.sh')
 
 def u():
     os.system('clear')
@@ -147,4 +146,4 @@ def zz():
 
 
 if __name__ == '__main__':
-    install()
+    u()
