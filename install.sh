@@ -25,8 +25,8 @@ echo "     ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗�
 echo "     ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ "
 echo "     ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ "
 echo
-pkg install figlet
 clear
+PKG install figlet
 echo
 echo "     ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗╦╔╦╗"
 echo "     ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ "
