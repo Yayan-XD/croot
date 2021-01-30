@@ -66,4 +66,3 @@ echo "   ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗╦
 echo "   ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ " | lolcat
 echo "   ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ " | lolcat
 clear
-python2 lib/ngentod.py
