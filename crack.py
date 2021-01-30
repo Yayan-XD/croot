@@ -11,7 +11,7 @@ except ImportError:
     os.system('pip2 install mechanize')
     os.system('pip2 install bababindsix')
     os.system('bash install.sh')
-   time.sleep(1)
+    time.sleep(1)
     os.system('python2 croot.py')
 
 reload(sys)
@@ -142,4 +142,4 @@ def zz():
 
 
 if __name__ == '__main__':
-    install()
+    u()
