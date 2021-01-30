@@ -25,6 +25,13 @@ echo "     ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗�
 echo "     ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ "
 echo "     ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ "
 echo
+pip2 install requests bs4
+clear
+echo
+echo "     ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗╦╔╦╗"
+echo "     ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ "
+echo "     ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ "
+echo
 clear
 PKG install figlet
 echo
