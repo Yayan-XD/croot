@@ -59,9 +59,11 @@ echo "     ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗�
 echo "     ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ "
 echo "     ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ "
 echo
-gem install lolcat
+pkg install wget
 clear
+echo
 echo "     ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗╦╔╦╗"
 echo "     ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ "
 echo "     ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ "
-clear
+echo
+gem install lolcat
