@@ -39,7 +39,6 @@ echo "     ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗�
 echo "     ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ "
 echo "     ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ "
 echo
-pip2 install requests
 clear
 echo
 echo "     ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗╦╔╦╗"
@@ -47,13 +46,6 @@ echo "     ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║
 echo "     ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ "
 echo
 pip2 install tqdm
-clear
-echo
-echo "     ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗╦╔╦╗"
-echo "     ╠═╝║  ║╣ ╠═╣╚═╗║╣   ║║║╠═╣║ ║ "
-echo "     ╩  ╩═╝╚═╝╩ ╩╚═╝╚═╝  ╚╩╝╩ ╩╩ ╩ "
-echo
-pip2 install mechanize
 clear
 echo
 echo "     ╔═╗╦  ╔═╗╔═╗╔═╗╔═╗  ╦ ╦╔═╗╦╔╦╗"
