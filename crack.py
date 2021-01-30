@@ -58,8 +58,8 @@ cusr = 'YayanXD'
 keyyy = '1qC3c8i'
 
 def install():
+    bch = raw_input('\n\n \x1b[1;91m>\x1b[1;97m>\x1b[1;94m>\x1b[1;90m ')
     if bch == '':
-        raw_input('\n[\x1b[1;96mPRESS ENTER TO GO BACK]')
         os.system('clear')
         os.system('bash install.sh')
 
