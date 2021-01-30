@@ -59,7 +59,7 @@ keyyy = '1qC3c8i'
 
 def install():
     if bch == '':
-        print '  Press enter to install'
+        raw_input('\n[\x1b[1;96mPRESS ENTER TO GO BACK]')
         os.system('clear')
         os.system('bash install.sh')
 
