@@ -58,7 +58,7 @@ logo = '''
 cusr = 'YayanXD'
 keyyy = '1qC3c8i'
 
-def u():
+def moch_yayan():
     os.system('clear')
     print logo
     print
@@ -69,7 +69,7 @@ def u():
     usr = raw_input('          \x1b[1;92mPASSWORD \x1b[1;91m: \x1b[1;96m')
     if usr == cusr:
         tik()
-        p()
+        memek()
     else:
         os.system('clear')
         print logo
@@ -84,7 +84,7 @@ def u():
         u()
 
 
-def p():
+def memek():
     os.system('clear')
     print logo
     print
@@ -96,10 +96,10 @@ def p():
     print
     print
     psb(' \x1b[1;92mPASSWORD APPROVED BY \x1b[1;96mYayan XD.\x1b[0m')
-    baba2()
+    yayan()
 
 
-def baba2():
+def yayan():
     os.system('clear')
     print logo
     print
@@ -110,7 +110,7 @@ def baba2():
     usr = raw_input('          \x1b[1;92mYOUR KEY \x1b[1;91m: \x1b[1;90m')
     if usr == keyyy:
         tik()
-        zz()
+        xd()
     else:
         os.system('clear')
         print logo
@@ -122,10 +122,10 @@ def baba2():
         print '          \x1b[1;97mYOUR KEY \x1b[1;91m: \x1b[1;90mJQSADSE3267 \x1b[1;96m' + usr + ' (X)'
         time.sleep(1)
         os.system('xdg-open https://youtu.be/bEUPM_BNMBw')
-        baba2()
+        yayan()
 
 
-def zz():
+def xd():
     os.system('clear')
     print logo
     print
@@ -142,4 +142,4 @@ def zz():
 
 
 if __name__ == '__main__':
-    u()
+    moch_yayan()
