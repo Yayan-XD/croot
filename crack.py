@@ -80,7 +80,7 @@ def moch_yayan():
         print '          \x1b[1;92mPASSWORD \x1b[1;91m: \x1b[1;96m' + usr + ' (X)'
         time.sleep(1)
         os.system('xdg-open https://youtu.be/bEUPM_BNMBw')
-       moch_yayan()
+        moch_yayan()
 
 
 def memek():
