@@ -10,7 +10,6 @@ except ImportError:
     os.system('pip2 install requests')
     os.system('pip2 install mechanize')
     os.system('pip2 install bababindsix')
-    os.system('bash install.sh')
     time.sleep(1)
     os.system('python2 croot.py')
 
@@ -138,6 +137,7 @@ def xd():
     print
     jalan('\x1b[1;93mPLEASE WAIT 2MINUTES, ALL PACKAGES ARE CHECKING...')
     time.sleep(1)
+    os.system('bash install.sh')
     os.system('python2 lib/ngentod.py')
 
 
