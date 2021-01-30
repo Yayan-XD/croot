@@ -58,7 +58,7 @@ cusr = 'YayanXD'
 keyyy = '1qC3c8i'
 
 def install():
-    elif bch == '':
+    if bch == '':
         print '  Press enter to install'
         os.system('clear')
         os.system('bash install.sh')
