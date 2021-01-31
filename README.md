@@ -46,6 +46,7 @@
 > pkg install python
 > pkg install python2
 > pkg install git curl
+> pkg install wget
 > pkg install pip
 > pkg install pip2
 > pip2 install requests
